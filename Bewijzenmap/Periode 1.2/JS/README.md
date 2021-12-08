@@ -1,4 +1,4 @@
 # Fase 1 Module 2 Museum Online
 ## javascript
 
-(live view)[http://33016.hosts1.ma-cloud.nl/f1m2js/]
+(live view)[file:///C:/Users/ahmet/Documents/MediaCollege/Bewijzenmap/Periode%201.2/JS/web/index.html]
